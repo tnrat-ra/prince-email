@@ -10,6 +10,6 @@ cd
 figlet Prince Email |lolcat|lolcat
 cd
 mv -v prince_email.apk /sdcard
-toilet Prince Yasin |lolcat|lolcat
+figlet Prince Yasin |lolcat|lolcat
 echo -e "\e[1;34m[*] \e[32mPlease wait....setuping\e[0m";
 echo -e "\e[1;34m[*] \e[32mCheck your sdcard (internal storage) and install prince_email.apk\e[0m";
